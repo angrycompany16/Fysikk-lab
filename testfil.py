@@ -1,1 +1,1 @@
-khjsbdvkjns
+print ("Hello world")
