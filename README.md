@@ -1,3 +1,3 @@
 # Fysikk-lab
 
-Femboys gjør fysikk 😕🤙🤙🤙
+Labarbeid i faget TFY4115
